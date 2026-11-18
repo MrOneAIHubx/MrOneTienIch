@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/MrOneAIHubx/MrOneTienIch/releases/latest",
-  "notes": "- Sửa: lịch sử Chat AI không còn bị mất khi file lưu bị hỏng\n- Sửa: Chat AI dài không còn báo lỗi với Claude / Gemini\n- Sửa: bỏ tick \"Chạy cùng Windows\" lúc cài thì app không tự bật lại\n- Cài bản mới tự tắt bản đang chạy dưới khay\n- Giao diện English: chữ gốc trong bảng dịch không bị dịch lẫn"
+  "version": "1.0.2",
+  "url": "https://github.com/MrOneAIHubx/MrOneTienIch/releases/tag/v1.0.2",
+  "notes": "- MrOneQr: xem trước số tiền và lỗi từng dòng trước khi xuất QR hàng loạt.\n- Đọc QR từ ảnh ngay trên máy.\n- Chat AI: thêm đổi tên, gắn thẻ và sửa lỗi chat đã xóa xuất hiện lại.\n- Logo nổi tự mờ khi nghỉ và hiện rõ khi rê chuột."
 }
