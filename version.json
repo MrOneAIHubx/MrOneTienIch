@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/MrOneAIHubx/MrOneTienIch/releases/download/v1.0.2/MrOneTienIch_Setup_1.0.2.exe",
-  "notes": "- MrOneQr: xem trước số tiền và lỗi từng dòng trước khi xuất QR hàng loạt.\n- Đọc QR từ ảnh ngay trên máy.\n- Chat AI: thêm đổi tên, gắn thẻ và sửa lỗi chat đã xóa xuất hiện lại.\n- Logo nổi tự mờ khi nghỉ và hiện rõ khi rê chuột."
+  "version": "1.0.3",
+  "url": "https://github.com/MrOneAIHubx/MrOneTienIch/releases/download/v1.0.3/MrOneTienIch_Setup_1.0.3.exe",
+  "notes": "- Thêm Authenticator: Ctrl+Shift+F3 để mở mã OTP, có đếm ngược, nút Copy mã và lưu tài khoản.\n- Hỗ trợ khóa Base32, link otpauth:// và ảnh QR thiết lập TOTP/HOTP.\n- Tab Dịch: xem, chép lại hoặc xóa bản dịch gần nhất đã chép."
 }
