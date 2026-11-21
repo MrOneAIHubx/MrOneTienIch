@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "url": "https://github.com/MrOneAIHubx/MrOneTienIch/releases/download/v1.0.5/MrOneTienIch_Setup_1.0.5.exe",
-  "notes": "- Cài đặt YouTube: chọn riêng thư mục tải video MP4 và âm thanh MP3, có nút khôi phục mặc định."
+  "version": "1.0.7",
+  "url": "https://github.com/MrOneAIHubx/MrOneTienIch/releases/download/v1.0.7/MrOneTienIch_Setup_1.0.7.exe",
+  "notes": "- Đổi phím tải video YouTube MP4 sang F7 để tránh trùng nút tải lại trang. F6 vẫn tải MP3."
 }
